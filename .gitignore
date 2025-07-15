@@ -1,6 +1,9 @@
 
 #Ignore these folders and files.
 
+network/network_v1.odp
+network/noche_de_los_museos_2024.lnk
+
 #Ignore these image formats.
 #*.jpeg
 #*.jpg
@@ -19,3 +22,5 @@
 #*.odt
 #*.pdf
 #*.xlsx
+#*.odp
+#*.pptx
