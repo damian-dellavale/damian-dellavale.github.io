@@ -4,6 +4,9 @@
 network/network_v1.odp
 network/noche_de_los_museos_2024.lnk
 
+index_claude_1.html
+index_claude_2.html
+
 #Ignore these image formats.
 #*.jpeg
 #*.jpg
@@ -11,7 +14,7 @@ network/noche_de_los_museos_2024.lnk
 #*.svg
 #*.eps
 
-#Ignore these Matlab files.
+#Ignore these Matlab formats.
 #*.fig
 #*.log
 #*.mat
